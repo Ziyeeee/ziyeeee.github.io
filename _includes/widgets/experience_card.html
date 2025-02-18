@@ -38,7 +38,12 @@
                                         <div>{{ item.name }}</div>
                                         <div class="small">{{ item.dept }}</div>
                                         <div class="small d-flex">
-                                            <div>{{ item.position }}</div>
+                                            <div>
+                                                {{ item.position }}
+                                                {% if item.supervisor %} 
+                                                    | Supervisor <a href="{{ item.supervisor_link }}" target="_blank">{{ item.supervisor }}</a>
+                                                {% endif %}
+                                            </div>
                                             <div class="mt-auto ml-auto no-break"><em>{{ item.date }}</em></div>
                                         </div>
                                     </div>

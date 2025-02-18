@@ -39,3 +39,14 @@ $(function () {
         $grid.masonry('layout');
     });
 })
+
+function toggleAbstract(button) {
+    var abstract = button.previousElementSibling;
+    if (abstract.classList.contains('expanded')) {
+        abstract.classList.remove('expanded');
+        button.textContent = "expand";
+    } else {
+        abstract.classList.add('expanded');
+        button.textContent = "collapse";
+    }
+}

@@ -67,3 +67,22 @@ div.lazy {
     font-family: Courier, monospace;
 }
 
+#abstract-content {
+    display: -webkit-box;
+    -webkit-line-clamp: 4; /* 限制显示 4 行 */
+    line-clamp: 4; /* 限制显示 4 行 */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+#abstract-content.expanded {
+    -webkit-line-clamp: unset;
+    line-clamp: unset;
+    max-height: none;
+}
+
+#abstract-container {
+    display: flex;
+    flex-direction: column;
+}

@@ -26,13 +26,16 @@ short_bio: >-
     Harbin Institute of Technology (Shenzhen).
   </p>
   <p>
-    His research initially focused on AI for Geoscience (AI4GeoScience) and has since shifted towards <strong>Embodied Intelligence</strong> and 
-    <strong>3D Computer Vision</strong>. He has published as the first author in <strong>ICLR</strong> and <strong>IEEE TGRS</strong> and 
-    serves as a reviewer for <strong>ACM TOMM</strong>.
+    His research interests forcus on <strong>Embodied Intelligence</strong> and <strong>3D Computer Vision</strong>. Previously, he worked on 
+    AI for Geoscience. 
+
+    He has published first-author papers in <strong>ICLR</strong> and <strong>IEEE TGRS</strong> and serves as a reviewer for <strong>ACM TOMM</strong>.
+
     His proposed STC-GS representation and framework effectively address the reconstruction and prediction of 3D spatiotemporal sequences. 
     This work has been accepted as an <strong>ICLR 2025 Oral</strong>. It's a promising approach for advancing <strong>Embodied Intelligence</strong> 
     and <strong>3D Scene Understanding</strong>. He is currently extending this work to <strong>Embodied Manipulation Tasks</strong> and 
     <strong>3D World Models</strong>.
+  </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
 # portrait_caption: >-

@@ -22,14 +22,14 @@ orcid: 0000-0003-3443-917X
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Ziye Wang is currently a research assistant at The Chinese University of Hong Kong, Shenzhen. He received his B.Eng. and M.Sc. degrees from 
+    Ziye Wang is set to begin his Ph.D. studies at The University of Hong Kong (HKU) in July 2025. He received his B.Eng. and M.Sc. degrees from 
     Harbin Institute of Technology (Shenzhen).
   </p>
   <p>
     His research interests forcus on <strong>Embodied Intelligence</strong> and <strong>3D Computer Vision</strong>. Previously, he worked on 
     AI for Geoscience. 
 
-    He has published first-author papers in <strong>ICLR</strong> and <strong>IEEE TGRS</strong> and serves as a reviewer for <strong>ACM TOMM</strong>.
+    He has published first-author papers in <strong>ICLR</strong> and <strong>IEEE TGRS</strong> and serves as a reviewer for <strong>CoRL</strong> and <strong>ACM TOMM</strong>.
 
     His proposed STC-GS representation and framework effectively address the reconstruction and prediction of 3D spatiotemporal sequences. 
     This work has been accepted as an <strong>ICLR 2025 Oral</strong>. It's a promising approach for advancing <strong>Embodied Intelligence</strong> 
@@ -67,6 +67,14 @@ experience:
   dept: School of Data Science
   position: Research Assistant
   date: Mar. 2024 - Jan. 2025
+  supervisor: Prof. Ruimao Zhang
+  supervisor_link: http://zhangruimao.site/
+
+- name: Sun Yat-sen University (Shenzhen Campus)
+  logo: /assets/images/badges/SYSU.png
+  dept: School of Electronics and Communication Engineering
+  position: Research Assistant
+  date: Mar. 2025 - Jun. 2025
   supervisor: Prof. Ruimao Zhang
   supervisor_link: http://zhangruimao.site/
 

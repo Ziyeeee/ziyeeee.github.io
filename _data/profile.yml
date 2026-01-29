@@ -2,13 +2,15 @@ primary_name: "Ziye Wang"
 secondary_name: ""
 navbar_name: "Ziye Wang (王子烨)"
 
-positions:
-# - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-#   name: Position 1 with logo
+positions: 
+- name: Doctor of Philosophy
+- logo: /assets/images/badges/HKU.jpg  # Logo is optional
+  name: The University of Hong Kong
+
 # - name: Position 2 without logo
 
 
-email: "ziye.wang1998@outlook.com"
+email: "ziyewang@connect.hku.hk"
 cv_link: /assets/pdf/Ziye_CV.pdf
 gscholar: C9IGdzYAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: Ziyeeee
@@ -22,19 +24,19 @@ orcid: 0000-0003-3443-917X
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Ziye Wang is set to begin his Ph.D. studies at The University of Hong Kong (HKU) in July 2025. He received his B.Eng. and M.Sc. degrees from 
+    Ziye Wang is currently a Ph.D. student at The University of Hong Kong (HKU), supervised by <a href="https://lihongyang.info/">Prof. Hongyang Li</a> and <a href="https://www.hkubs.hku.hk/people/chen-lin/">Prof. Chen Lin</a>. He received his B.Eng. and M.Sc. degrees from 
     Harbin Institute of Technology (Shenzhen).
   </p>
   <p>
-    His research interests forcus on <strong>Embodied Intelligence</strong> and <strong>3D Computer Vision</strong>. Previously, he worked on 
+    His research interests forcus on <strong>Robotic Manipulation</strong> and <strong>3D Computer Vision</strong>. Previously, he worked on 
     AI for Geoscience. 
 
-    He has published first-author papers in <strong>ICLR</strong> and <strong>IEEE TGRS</strong> and serves as a reviewer for <strong>CoRL</strong> and <strong>ACM TOMM</strong>.
+    He has published first-author papers in <strong>ICLR</strong>, <strong>NeurIPS</strong> and <strong>IEEE TGRS</strong> and serves as a reviewer for <strong>RSS</strong>, <strong>CoRL</strong> and <strong>ACM TOMM</strong>.
 
-    His proposed STC-GS representation and framework effectively address the reconstruction and prediction of 3D spatiotemporal sequences. 
-    This work has been accepted as an <strong>ICLR 2025 Oral</strong>. It's a promising approach for advancing <strong>Embodied Intelligence</strong> 
-    and <strong>3D Scene Understanding</strong>. He is currently extending this work to <strong>Embodied Manipulation Tasks</strong> and 
-    <strong>3D World Models</strong>.
+    His proposed 3D Gaussian-based representation and framework effectively address the reconstruction and prediction of 3D spatiotemporal sequences. 
+    This work has been accepted as an <strong>ICLR 2025 Oral</strong>. It provides a robust foundation for advancing <strong>Embodied Intelligence</strong> 
+    and <strong>3D Scene Understanding</strong>. Currently, he is extending this research to <strong>Robotic Manipulation</strong> and 
+    <strong>3D World Models</strong>, with his latest achievements accepted at <strong>NeurIPS 2025</strong>.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg

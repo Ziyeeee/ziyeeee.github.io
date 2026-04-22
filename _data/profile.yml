@@ -3,9 +3,8 @@ secondary_name: ""
 navbar_name: "Ziye Wang (王子烨)"
 
 positions: 
-- name: Doctor of Philosophy
 - logo: /assets/images/badges/HKU.jpg  # Logo is optional
-  name: The University of Hong Kong
+  name: Ph.D. at The University of Hong Kong
 
 # - name: Position 2 without logo
 
